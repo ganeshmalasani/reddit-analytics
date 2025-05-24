@@ -17,8 +17,8 @@ This Streamlit app allows users to analyze Reddit subreddit data by fetching pos
 ## 🚀 Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/reddit-analytics-streamlit.git
-   cd reddit-analytics-streamlit
+   git clone  https://github.com/ganeshmalasani/reddit-analytics.git
+   cd reddit-analytics
    ```
 2. Install dependencies:
    ```sh
